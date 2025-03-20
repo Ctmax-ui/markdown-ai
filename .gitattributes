@@ -1,0 +1,3 @@
+*.html linguist-vendored export-ignore
+*.css linguist-vendored export-ignore
+*.js linguist-language=JavaScript
